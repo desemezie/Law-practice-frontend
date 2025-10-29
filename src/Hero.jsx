@@ -22,7 +22,7 @@ function Hero() {
         {/* Right image section */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="Assets/victor-portrait.png"
+            src="../Assets/victor-portrait.png"
             alt="Victor portrait"
             className="rounded-lg shadow-lg object-cover w-100 h-[500px]"
           />
